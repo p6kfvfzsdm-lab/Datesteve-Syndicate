@@ -1,9 +1,19 @@
 {
   "players": [
     {
-      "uuid": "PUT-YOUR-UUID-HERE",
+      "uuid": "ТВОЙ_UUID",
       "name": "Datesteve",
       "rank": "Leader"
+    },
+    {
+      "uuid": "UUID_ИГРОКА",
+      "name": "Player2",
+      "rank": "Soldier"
+    },
+    {
+      "uuid": "UUID_ИГРОКА",
+      "name": "Player3",
+      "rank": "Prospect"
     }
   ]
 }
