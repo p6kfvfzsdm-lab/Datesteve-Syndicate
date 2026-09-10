@@ -1,1 +1,9 @@
-
+{
+  "players": [
+    {
+      "uuid": "PUT-YOUR-UUID-HERE",
+      "name": "Datesteve",
+      "rank": "Leader"
+    }
+  ]
+}
