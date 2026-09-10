@@ -1,17 +1,17 @@
 {
   "players": [
     {
-      "uuid": "ТВОЙ_UUID",
-      "name": "Datesteve",
+      "uuid": "b5861bd3-6747-4cd1-b748-61c0762caf43",
+      "name": "datesteve_",
       "rank": "Leader"
     },
     {
-      "uuid": "UUID_ИГРОКА",
+      "uuid": "UUID",
       "name": "Player2",
       "rank": "Soldier"
     },
     {
-      "uuid": "UUID_ИГРОКА",
+      "uuid": "UUID",
       "name": "Player3",
       "rank": "Prospect"
     }
